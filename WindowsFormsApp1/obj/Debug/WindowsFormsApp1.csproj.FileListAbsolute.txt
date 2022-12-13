@@ -18,3 +18,13 @@ C:\Users\22468391\Documents\Chapter6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1
 C:\Users\22468391\Documents\Chapter6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\22468391\Documents\Chapter6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\22468391\Documents\Chapter6\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\22468391\Downloads\C-Chapter6AutomotiveForm-main\C-Chapter6AutomotiveForm-main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
